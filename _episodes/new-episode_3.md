@@ -10,7 +10,7 @@ keypoints: null
 is-break: false
 ukrn_wb_rules: []
 day: 1
-order: 430000
+order: 292500
 
 ---
 The text of your lesson will go here.
