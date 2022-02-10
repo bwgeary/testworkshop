@@ -2,8 +2,10 @@
 workshop_id: BG_UD_OCS_20220210_01
 topic: open-code
 title: Open Code Workshop
-instructors: []
-instructor_emails: []
+instructors:
+  - Bethany Geary
+instructor_emails:
+  - beth.geary@ukdri.ac.uk
 helpers: []
 start_times:
   - 09|00
