@@ -1,9 +1,9 @@
 ---
-title: New Lesson
+title: How code sharing prevents anarchy
 teaching: 10
 exercises: 20
 duration: 0
-summary: ""
+summary: A brief overview of how code sharing avoids a breakdown in society
 questions: null
 objectives: null
 keypoints: null
