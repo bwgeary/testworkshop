@@ -14,7 +14,7 @@ keypoints:
 is-break: false
 ukrn_wb_rules: null
 day: 1
-order: 180000
+order: 155000
 
 ---
 > ## Enumerating the benefits `5 min`
