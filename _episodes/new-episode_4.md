@@ -1,11 +1,12 @@
 ---
-title: New Lesson
-teaching: 10
-exercises: 20
-duration: 0
-summary: ""
+title: Wrap up and acknowledgements
+teaching: null
+exercises: null
+duration: 20
+summary: A quick summary of the day followed by cigars and brandy in the billiards room
 questions: null
-objectives: null
+objectives:
+  - To reflect on a sucessful day of personal development and learning
 keypoints: null
 is-break: false
 ukrn_wb_rules: []
