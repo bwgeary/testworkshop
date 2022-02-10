@@ -1,7 +1,7 @@
 ---
-title: New Lesson
+title: Interactive tutorial
 teaching: 10
-exercises: 20
+exercises: 25
 duration: 0
 summary: ""
 questions: null
