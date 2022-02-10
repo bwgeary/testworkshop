@@ -1,4 +1,9 @@
 ---
+day: 1
+order: 22500
+
+---
+---
 title: "Workflow checklist" # title of the episode
 teaching: 5 # time required to teach (minutes)
 exercises: 20 # time required for participants to do the activities (minutes)
