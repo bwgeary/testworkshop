@@ -3,7 +3,8 @@ title: Selling code to Big Pharma
 teaching: 10
 exercises: 20
 duration: 0
-summary: ""
+summary: Want to make big bucks from big bugs? Sell your code today! They'll buy
+  anything
 questions: null
 objectives: null
 keypoints: null
