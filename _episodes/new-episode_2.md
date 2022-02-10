@@ -13,5 +13,15 @@ day: 1
 order: 192500
 
 ---
-The text of your lesson will go here.
-It can make use of markdown formatting, as well as the special [callout zones](https://ukrn-open-research.github.io/ukrn-wb-lesson-templates/text-lesson/index.html#examples) in The Carpentries' template.
+In this section we will be going over the first steps of working with GitHub
+
+> ## Working with GitHub `5 min`
+> In small groups, work together to complete the following :asks
+> > ## Tasks
+> > - Start a new repository
+> > - Make a commit
+> > - Make a branch
+> > - View the version history
+> > - Steal the code of others
+> {: .solution}
+{: .prereq}
