@@ -1,5 +1,5 @@
 ---
-title: New Lesson
+title: Selling code to Big Pharma
 teaching: 10
 exercises: 20
 duration: 0
